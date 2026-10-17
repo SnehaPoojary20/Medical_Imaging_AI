@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+numpy
+pillow
+pydicom
+tqdm
+pytest
+dvc
+fastapi
+uvicorn
+requests
+grad-cam
+opencv-python
